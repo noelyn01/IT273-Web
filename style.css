@@ -1,0 +1,136 @@
+html {
+  background: url(pp.jpg) no-repeat center fixed;
+  background-color: black;
+}
+
+.prof-box {
+  width: 950px;
+  height: 400px;
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 40px;
+  color: white;
+  margin: 0 auto;
+  margin-top: 100px;
+  text-align: center;
+}
+
+.prof-pic {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  margin-right: 60%;
+  margin-top: 5%;
+  border-style: solid;
+  border-color: tomato;
+  border-width: 4px;
+  border-radius: 50%;
+}
+
+.prof-box h1 {
+  margin-left: 50%;
+  margin-top: -20%;
+  font-weight: 100;
+  letter-spacing: 6;
+  font-size: 40px;
+  font-family: "Courier New", Courier, monospace;
+  color: tomato;
+}
+
+.prof-box p {
+  margin-left: 50%;
+  font-weight: bold;
+  letter-spacing: 1;
+  font-family: Courier New;
+  color: pink;
+}
+
+.line-break {
+  width: 250px;
+  margin: 0 auto;
+  margin-left: 60.5%;
+  border-top: 1px solid white;
+}
+
+.social-icons {
+  font-size: 40px;
+  margin-top: 10%;
+  letter-spacing: 3px;
+}
+
+.social-icons a {
+  color: white;
+}
+
+.social-icons a:hover {
+  color: blue;
+}
+
+<style > .it {
+  padding: 0 0 40px;
+}
+.head {
+  display: grid;
+  padding: 100px 20px 50px;
+}
+
+.head p {
+  color: cyan;
+  width: 780px;
+  height: 40px;
+  background-color: rgba(0, 0, 0, 0.7);
+  text-align: center;
+  font-family: cursive;
+}
+
+.head h1 {
+  color: cyan;
+  width: 820px;
+  height: 50px;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.7);
+  font-family: stencil;
+}
+
+.title {
+  place-self: center;
+  margin-bottom: 40px;
+  font-size: 40px;
+}
+.hello {
+  place-self: center;
+  margin-bottom: 30px;
+  font-family: script mt bold;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.links {
+  width: 450px;
+  height: 370px;
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 40px;
+  color: white;
+  margin: 0 auto;
+  margin-top: 1px;
+  text-align: center;
+  letter-spacing: 5px;
+  display: grid;
+}
+
+.links a:hover {
+  color: red;
+}
+
+.links chapter-btn {
+  width: 450px;
+  height: 450px;
+  padding: 40px;
+  color: white;
+  margin: 0 auto;
+  margin-top: 100px;
+  text-align: center;
+}
+
+a {
+  place-self: center;
+}
