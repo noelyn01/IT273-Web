@@ -1,0 +1,8 @@
+Algebraic equation
+
+Algebraic equation, statement of the equality of two expressions formulated by applying to
+a set of variables the algebraic operations, namely, addition, subtraction, multiplication, division,
+raising to a power, and extraction of a root. Examples are x3 + 1 and (y4x2+2xy-y)/(x-1) = 12.
+An important special case of such equation is that of polynomial equation, expression of the
+form axn + bxn-1 + ... + gx + h = k. They have as many solution as their degree (n). and the
+trigonometric function, are said to be transcendental.

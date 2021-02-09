@@ -1,0 +1,17 @@
+Chemical Compound
+
+A chemical compound is a chemical substance consisting of two or more different chemically
+bonded chemical elements, with a fixed ratio determining the composition.
+
+The ratio of each element is usually expressed by chemical formula.
+
+For example, water (H2O) is a compound consisting of two hydrongen atoms bonded to an oxygen
+atom.
+
+the atom within a compound can be held together by a variety of interaction, ranging from
+covalents bonds to electrostatic forces in ionic bonds.
+
+A continuum of bond polarities exist between the purely covalent bond (as in H2) and ionic bonds.
+for example H2O is held by polar cavalent bonds.
+
+Sodium chloride is an example of an ionic compound.
